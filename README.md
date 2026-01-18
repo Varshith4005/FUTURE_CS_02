@@ -83,8 +83,3 @@ This task strengthened my understanding of:
 - Professional documentation of security analysis  
 
 ---
-
-## 🔗 Internship Reference
-
-Future Interns – Cyber Security Internship Program  
-https://www.linkedin.com/company/future-interns
